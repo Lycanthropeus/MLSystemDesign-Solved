@@ -1,3 +1,3 @@
-# ML System Design P1
-An ML system design problem involving video search.
-![ML system design p1](https://github.com/user-attachments/assets/fecb651c-4653-4583-9b0c-6e82423ff094)
+This repository documents 10 ML/AI problems commonly found in industry, and presents approaches to solve them, from a system design standpoint. Model training paradigms and best practices along with trade-offs are emphasized in each architecture diagram.
+
+1. [Video Search System](video_search_system.md)
