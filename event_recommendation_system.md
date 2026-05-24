@@ -52,7 +52,7 @@ $$\text{Recall@k} = \frac{\text{Number of relevant items in top k}}{\text{Total 
 $$\text{MRR} = \frac{1}{n}\sum_{i=1}^{n}{}\frac{1}{\text{rank of the first relevant item}}\$$
 
 $$NDCG = \frac{DCG}{IDCG}$$
-$$DCG = \sum_{i=0}^{n-1}\frac{{\text{relevance\_score}_i}}{log_2(i+1)}
+$$DCG = \sum_{i=0}^{n-1}\frac{{\text{relevance score}_i}}{log_2(i+1)}
 $$
 
 $$\text{IDCG is the ideal DCG, i.e., the DCG when the relevance scores are sorted in the correct order and the rank is perfect.}
