@@ -2,3 +2,4 @@ This repository documents 10 ML/AI problems commonly found in industry, and pres
 
 1. [Video Search System](video_search_system.md)
 2. [Harmful Content Detection System](harmful_content_system.md)
+3. [Event Recommendation System](event_recommendation_system.md)
